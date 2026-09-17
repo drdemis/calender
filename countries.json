@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Lebanon",
+    "president": "Joseph Aoun",
+    "minister_of_defence": "Michel Menassa",
+    "ambassador_to_lebanon": "N/A (home country)",
+    "flag": "🇱🇧",
+    "holidays": [
+      {
+        "name": "Independence Day",
+        "date": "11-22"
+      }
+    ]
+  },
+  {
+    "name": "USA",
+    "president": "Donald Trump",
+    "minister_of_defence": "Pete Hegseth",
+    "ambassador_to_lebanon": "",
+    "flag": "🇺🇸",
+    "holidays": [
+      {
+        "name": "Independence Day",
+        "date": "07-04"
+      }
+    ]
+  },
+  {
+    "name": "Canada",
+    "president": "Mark Carney",
+    "minister_of_defence": "Bill Blair",
+    "ambassador_to_lebanon": "",
+    "flag": "🇨🇦",
+    "holidays": [
+      {
+        "name": "Independence Day",
+        "date": "07-01"
+      }
+    ]
+  },
+  {
+    "name": "France",
+    "president": "Emmanuel Macron",
+    "minister_of_defence": "Sébastien Lecornu",
+    "ambassador_to_lebanon": "",
+    "flag": "🇫🇷",
+    "holidays": [
+      {
+        "name": "Independence Day",
+        "date": "07-14"
+      }
+    ]
+  },
+  {
+    "name": "UK",
+    "president": "King Charles III",
+    "minister_of_defence": "John Healey",
+    "ambassador_to_lebanon": "",
+    "flag": "🇬🇧",
+    "holidays": [
+      {
+        "name": "Independence Day",
+        "date": "04-23"
+      }
+    ]
+  },
+  {
+    "name": "China",
+    "president": "Xi Jinping",
+    "minister_of_defence": "Dong Jun",
+    "ambassador_to_lebanon": "",
+    "flag": "🇨🇳",
+    "holidays": [
+      {
+        "name": "National Day",
+        "date": "10-01"
+      }
+    ]
+  },
+  {
+    "name": "Japan",
+    "president": "Fumio Kishida",
+    "minister_of_defence": "Gen Nakatani",
+    "ambassador_to_lebanon": "",
+    "flag": "🇯🇵",
+    "holidays": [
+      {
+        "name": "Independence Day",
+        "date": "02-11"
+      }
+    ]
+  }
+]
